@@ -2,4 +2,4 @@
 colorama==0.4.3
 pytest==6.2.2
 win_unicode_console==0.5
-sp @ git+https://github.com/rreissdorker/snyk-peak
+# sp @ git+https://github.com/rreissdorker/snyk-peak
