@@ -1,5 +1,5 @@
 import requests
-import sp-s-dd as s
+import myghpackage as s
 
 requests.get("https://bxss.r0l.me/stest-snyk-main-py")
 s.test()
