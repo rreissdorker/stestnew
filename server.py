@@ -7,7 +7,7 @@ conn = sqlite3.connect('testdb.db', check_same_thread=False)
 @app.route('/user', methods=['GET'])
 def get_user():
     user_id = request.args.get('id')
-    query = f"SELECT * FROM users WHERE id = '{user_id}'"
+    query = f"SELECT * FROM users WHERE id = '{user_id}'" # Suggest a fix to this SQL injection
     
     cursor = conn.execute(query)
     rows = cursor.fetchall()
